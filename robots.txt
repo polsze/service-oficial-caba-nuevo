@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://serviceoficial-caba.com.ar/sitemap.xml
